@@ -6,7 +6,7 @@
 > by Dr. Angela Yu
 ### Chapter 5.4 : API Authentication
 
-![Screenshot_Express_App](Screenshot_Express_App.jpg)
+![Screenshot_Express_App](/img/Screenshot_Express_App.jpg)
 
 <a href="https://secrets-api.appbrewery.com/" target="_blank">Secret_API_Documentation</a>
 
@@ -50,6 +50,22 @@ A status of 200 means that all has gone well and that it's successfully register
 Keep your username and password, as we'll need them later.
 
 ---
+More in pictures :
+
+1. "postman_test_auth_API" :
+![Screenshot_Express_App](/img/01_postman_test_auth_API.jpg)
+2. "postman_register_auth_API" :
+![Screenshot_Express_App](/img/02_postman_register_auth_API.jpg)
+3. "postman_register_auth_API" :
+![Screenshot_Express_App](/img/03_postman_generate_API_Key.jpg)
+4. "postman_use_auth_API_Key_part1" :
+![Screenshot_Express_App](/img/04_postman_use_auth_API_Key_part1.jpg)
+5. "postman_use_auth_API_Key_part2" :
+![Screenshot_Express_App](/img/05_postman_use_auth_API_Key_part2.jpg)
+6. "postman_use_auth_API_Token" :
+![Screenshot_Express_App](/img/06_postman_use_auth_API_Token.jpg)
+
+---
 Links :
 
 -   <a href="https://ipopop.github.io/U2Me_Complete_Web_Development_Bootcamp_5-4_API_Authentication/" target="_blank">Secret_API_Documentation (local link)</a>
@@ -58,7 +74,8 @@ Links :
 
 - <a href="https://www.appbrewery.co/p/web-development-course-resources" target="_blank">Web-Development-Course-Resources</a> (and search the "Section 20: APIs - Application Programming Interfaces")
 
----
-Tools : 
+- <a href="https://axios-http.com/docs/api_intro" target="_blank">Axios API Documentation</a>
 
+---
+Tools :
 - <a href="https://www.postman.com/downloads/" target="_blank">Postman (download)</a>
